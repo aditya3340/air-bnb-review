@@ -42,12 +42,12 @@ body {
 }
 
 .hero-text1 {
-  font-size: 60px;
+  font-size: 40px;
   margin-block-start: 0em;
   margin-block-end: 0em;
 }
 .hero-text2 {
-  line-height: 36px;
+  line-height: 30px;
   max-width: 520px;
   font-size: 25px;
   font-weight: 600;
